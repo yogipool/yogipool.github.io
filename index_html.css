@@ -1,0 +1,32 @@
+a { color:#7E7EBE; } 
+a:visited { color:#7E7EBE; } 
+a:active { color:#7E7EBE; } 
+a:hover { color:#B2B3B4; } 
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:center; }
+#container_24a694d0 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1200px; background:none;  }
+#container_24a694d0_padding { margin: 10px; display: block;  }
+#container_45953828 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:475px; background-color:#FFFFFF; background-image: url(rc_images/business_medium.jpg); background-position:bottom center; background-size:cover;  }
+#container_45953828_padding { margin: 10px; display: block;  }
+.textstyle2 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#container_2c8227ab { vertical-align: top; position:relative; display: inline-block; width:100%; background:none;  }
+#container_2c8227ab_padding { margin: 10px; display: block;  }
+.textstyle3 { text-align:left; }
+.textstyle4 { font-size:32pt; font-family:'Trebuchet MS', Helvetica, sans-serif; color:#FFFFFF; text-shadow: 2px 2px 5px #000000;  }
+#container_5b6fb27c { vertical-align: top; position:relative; display: inline-block; width:100%; background:none;  }
+#container_5b6fb27c_padding { margin: 10px; display: block;  }
+.textstyle5 { font-size:15pt; font-family:'Trebuchet MS', Helvetica, sans-serif; color:#FFFFFF;  }
+.textstyle6 { font-size:26pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.784314);  }
+.textstyle7 { font-size:32pt; font-family:Tahoma, Geneva, sans-serif; color:#20242E;  }
+.textstyle8 { font-size:32pt; font-family:Tahoma, Geneva, sans-serif; color:#20242E; line-height: 1.5;  }
+.textstyle9 { font-size:15pt; font-family:Tahoma, Geneva, sans-serif; color:#20242E; line-height: 1.5;  }
+.textstyle10 { font-size:15pt; font-family:Tahoma, Geneva, sans-serif; color:#20242E;  }
+#container_6f28f537 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#20242E;  }
+#container_6f28f537_padding { margin: 10px; display: block;  }
+.textstyle11 { font-size:32pt; font-family:Tahoma, Geneva, sans-serif; color:#FFFFFF;  }
+.textstyle12 { font-size:32pt; font-family:Tahoma, Geneva, sans-serif; color:#FFFFFF; line-height: 1.5;  }
+@media only screen and (max-width: 640px)
+{
+		#container_2c8227ab * span { font-size:24pt;  }
+		#container_5b6fb27c * span { font-size:12pt;  }
+}
